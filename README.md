@@ -14,7 +14,7 @@ You don't need to spend that much time anymore. Just use this boilerplate =)
 
 - [React js](https://reactjs.org/)
 - [React router 4](https://reacttraining.com/react-router/web/guides/quick-start)
-- [Exprress js](http://expressjs.com/)
+- [Express js](http://expressjs.com/)
 
 ## Docs
 
@@ -28,4 +28,4 @@ P.S. Server runs with nodemon and will be hot-reloaded on changes. However, sinc
 
 <br>
 <br>
-### **Happy Coding!**
+### Happy Coding!

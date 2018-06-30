@@ -1,7 +1,7 @@
 {
   "name": "cra-ssr-r4-boilerplate",
   "version": "1.0.0",
-  "main": "bootstrap.js",
+  "main": "server_to_run.js",
   "author": "Gleb Irovich",
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",
