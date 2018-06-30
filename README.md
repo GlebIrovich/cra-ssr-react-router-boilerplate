@@ -26,6 +26,4 @@ You don't need to spend that much time anymore. Just use this boilerplate =)
 P.S. Server runs with nodemon and will be hot-reloaded on changes. However, since the app is built before starting the server, any changes in components will not be visible. Rerun ```npm run server``` to see your changes in SSR mode.
 
 
-<br>
-<br>
 ### Happy Coding!
